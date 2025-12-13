@@ -15,11 +15,4 @@ As a tech enthusiast I'm driven by coding and innovation, proficient in Python, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devxnshsharma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devxnshsharma&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devxnshsharma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- thank you for reading! -->
