@@ -13,5 +13,5 @@ AI/ML enthusiast proficient in Python, Java, C++, and expanding into Spring Boot
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<img alt="wave animation" src="images/wave.svg">
 <!-- thank you for reading! -->
