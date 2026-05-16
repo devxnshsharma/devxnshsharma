@@ -19,6 +19,7 @@ I'm a sophomore at **Vellore Institute of Technology**, majoring in Computer Sci
 ## Let's connect!
 
 Check out my [website](https://devanshsharma.dev/) or connect with me on [LinkedIn](https://www.linkedin.com/in/devxnshsharma/) or [Twitter/X](https://x.com/selepheim)
+<hr>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
