@@ -1,9 +1,13 @@
-<h2 align="center">Hi, I'm Devansh Sharma <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+# Hi there, I'm [Devansh Sharma](https://devansh-studio.vercel.app) <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 
-### About Me:
-AI/ML enthusiast proficient in Python, Java, C++, and expanding into Spring Boot/Golang. <br>I specialize in building impactful solutions, currently focusing on applying Artificial Intelligence to solve real-world problems. <br>Eager to contribute to meaningful projects, collaborate, and continuously push technical boundaries.
+I'm a sophomore at **Vellore Institute of Technology**, majoring in Computer Science. I build things that solve real problems, feel free to explore my work and reach out!
+## My work
 
-### Tech Stack:
+- **[UnMessify](https://github.com/devanshsharma/unmessify)**: Smart mess credit planner optimizing 6,000+ monthly credits using predictive burn rate models and a dynamic Daily Safe Limit algorithm (JavaScript/Chart.js).
+- **[MedRep](https://github.com/devanshsharma/medrep)**: Student health analytics portal with automated BMI diagnostics, vaccination alerts, and SQL-injection-proof CRUD operations (Python/MySQL).
+ - **[Hex Softwares](https://github.com/devanshsharma/private)**: Java Programming Intern where I engineered 3 enterprise modules (Inventory, Leave Management, Travel Booking) with RBAC security and modular OOP architecture.
+- **Perplexity Campus Partner:** Representing Perplexity AI to 1,200+ peers, driving adoption of agentic AI tools across campus.
+## Tech Stack:
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 <br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -12,9 +16,11 @@ AI/ML enthusiast proficient in Python, Java, C++, and expanding into Spring Boot
 <br>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 <br>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-<hr>
+## Let's connect!
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Check out my [website](https://devanshsharma.dev/) or connect with me on [LinkedIn](https://www.linkedin.com/in/devxnshsharma/) or [Twitter/X](https://x.com/selepheim)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 <img alt="wave animation" src="images/wave.svg">
 <!-- thank you for reading! -->
