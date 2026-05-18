@@ -4,7 +4,7 @@ I'm a sophomore at **Vellore Institute of Technology**, majoring in Computer Sci
 ## My work
 
 - **[VITspotCheck](https://vitspotcheck.vercel.app)**: Real-time campus intelligence platform targeted towards 25,000+ VIT students — crowdsourced room availability, WiFi heatmaps, a trust-weighted Karma engine, and an FFCS-aware booking portal (React, TypeScript, Node.js, Firebase).
-- **[UnMessify](https://devxnshsharma.github.io/unmessify)**: Smart mess credit planner optimizing 6,000+ monthly credits using predictive burn rate models with a dynamic Daily Safe Limit algorithm, and a real-time spend scenario simulator (JavaScript/Chart.js).
+- **[UnMessify](https://devxnshsharma.github.io/UnMessify)**: Smart mess credit planner optimizing 6,000+ monthly credits using predictive burn rate models with a dynamic Daily Safe Limit algorithm, and a real-time spend scenario simulator (JavaScript/Chart.js).
 - **[MedRep](https://github.com/devxnshsharma/student-health-projekt)**: Student health analytics portal with automated BMI diagnostics, vaccination alerts, and SQL-injection-proof CRUD operations (Python/MySQL).
  - **[Hex Softwares](https://github.com/devanshsharma/hexware)**: Java Programming Intern where I engineered 3 enterprise modules (Inventory, Leave Management, Travel Booking) with RBAC security and modular OOP architecture.
 - **[Perplexity Campus Partner](https://www.perplexity.ai/hub/legal/campus-partners-program-terms):** Representing Perplexity AI to 1,200+ peers, driving adoption of agentic AI tools across campus.
