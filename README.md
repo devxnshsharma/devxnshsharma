@@ -3,10 +3,11 @@
 I'm a sophomore at **Vellore Institute of Technology**, majoring in Computer Science. I build things that solve real problems, feel free to explore my work and reach out!
 ## My work
 
-- **[UnMessify](https://github.com/devanshsharma/unmessify)**: Smart mess credit planner optimizing 6,000+ monthly credits using predictive burn rate models and a dynamic Daily Safe Limit algorithm (JavaScript/Chart.js).
-- **[MedRep](https://github.com/devanshsharma/medrep)**: Student health analytics portal with automated BMI diagnostics, vaccination alerts, and SQL-injection-proof CRUD operations (Python/MySQL).
- - **[Hex Softwares](https://github.com/devanshsharma/private)**: Java Programming Intern where I engineered 3 enterprise modules (Inventory, Leave Management, Travel Booking) with RBAC security and modular OOP architecture.
-- **Perplexity Campus Partner:** Representing Perplexity AI to 1,200+ peers, driving adoption of agentic AI tools across campus.
+- **[VITspotCheck](https://vitspotcheck.vercel.app)**: Real-time campus intelligence platform targeted towards 25,000+ VIT students — crowdsourced room availability, WiFi heatmaps, a trust-weighted Karma engine, and an FFCS-aware booking portal (React, TypeScript, Node.js, Firebase).
+- **[UnMessify](https://devxnshsharma.github.io/unmessify)**: Smart mess credit planner optimizing 6,000+ monthly credits using predictive burn rate models with a dynamic Daily Safe Limit algorithm, and a real-time spend scenario simulator (JavaScript/Chart.js).
+- **[MedRep](https://github.com/devxnshsharma/student-health-projekt)**: Student health analytics portal with automated BMI diagnostics, vaccination alerts, and SQL-injection-proof CRUD operations (Python/MySQL).
+ - **[Hex Softwares](https://github.com/devanshsharma/hexware)**: Java Programming Intern where I engineered 3 enterprise modules (Inventory, Leave Management, Travel Booking) with RBAC security and modular OOP architecture.
+- **[Perplexity Campus Partner](https://www.perplexity.ai/hub/legal/campus-partners-program-terms):** Representing Perplexity AI to 1,200+ peers, driving adoption of agentic AI tools across campus.
 ## Tech Stack:
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -18,7 +19,7 @@ I'm a sophomore at **Vellore Institute of Technology**, majoring in Computer Sci
 <br>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ## Let's connect!
 
-Check out my [website](https://devanshsharma.dev/) or connect with me on [LinkedIn](https://www.linkedin.com/in/devxnshsharma/) or [Twitter/X](https://x.com/selepheim)
+Check out my [website](https://devanshsharma.dev/) or connect with me on [LinkedIn](https://www.linkedin.com/in/devxnshsharma/) · [Twitter/X](https://x.com/selepheim) · devanshsharma0363@gmail.com
 <hr>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
