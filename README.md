@@ -1,4 +1,4 @@
-# Hi there, I'm [Devansh Sharma](https://devansh-studio.vercel.app) <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
+# Hi there, I'm [Devansh Sharma](https://devxnsh.is-a.dev/) <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 
 I'm a sophomore at **Vellore Institute of Technology**, majoring in Computer Science. I build things that solve real problems, feel free to explore my work and reach out!
 ## My work
