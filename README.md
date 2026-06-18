@@ -25,8 +25,8 @@ Check out my [website](https://devanshsharma.dev/) or connect with me on [Linked
 
 </samp>
 <hr>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 <img alt="wave animation" src="images/wave.svg">
 <!-- thank you for reading! -->
