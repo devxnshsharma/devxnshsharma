@@ -21,7 +21,7 @@ I'm an undergrad at Vellore Institute of Technology, majoring in Computer Scienc
 ## Let's connect!
 <samp>
  
-Check out my [website](https://devanshsharma.dev/) or connect with me on [LinkedIn](https://www.linkedin.com/in/devxnshsharma/) // [Twitter/X](https://x.com/selepheim) // devanshsharma0363@gmail.com
+Check out my [website](https://devxnsh.is-a.dev) or connect with me on [LinkedIn](https://www.linkedin.com/in/devxnshsharma/) // [Twitter/X](https://x.com/selepheim) // devanshsharma0363@gmail.com
 
 </samp>
 <hr>
